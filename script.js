@@ -23,5 +23,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "Yes.html";
+    window.open("Yes.html", "_blank");
 }
